@@ -37,6 +37,8 @@ Full project stories, experience detail and resume: **[prasanth3021.github.io](h
 
 - Oracle Cloud Infrastructure Certified AI Foundations Associate - October 2026, scored 98%
 - Oracle Agentic AI Certified Foundations Associate - September 2026
+- Building Effective Human-Agent Teams - Claude Academy (Anthropic), November 2026 - https://academy.claude.com/verify/c150ab4ab9d51f78073bc56d78ec0252
+- AI Capabilities and Limitations - Claude Academy (Anthropic), November 2026 - https://academy.claude.com/verify/40c0c48ebfb70f10229e14a26acc416b
 - Foundations of Agentic AI in GitHub, Microsoft - September 2026
 
 ## Education
